@@ -1,0 +1,5 @@
+pyyaml
+requests
+python-docx
+reportlab
+markdown
